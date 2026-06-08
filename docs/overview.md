@@ -79,4 +79,14 @@
     PM: 좋습니다. 현재 기준으로 베타 출시 일정은 유지하되, 기술적 이슈 해결 여부를 다음 회의에서 다시 검토합시다.
     회의 종료
 
-    
+
+## 출력값
+### 
+
+| GPT | ![GPT](<img width="643" height="389" alt="image" src="https://github.com/user-attachments/assets/5a2746d7-07e6-451e-b9ee-c564c5a2acbc" />
+) |
+| 게시글 작성 | ![작성](../images/editor.png) |
+
+
+
+
