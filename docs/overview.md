@@ -23,13 +23,11 @@
 | Top-p | 기본값 | 기본값 | 기본값 |
 | Max Tokens | 기본값 | 기본값 | 기본값 |
 
+<img width="481" height="141" alt="image" src="https://github.com/user-attachments/assets/9e3e58c8-e814-49ec-8520-3a91581ef8ab" />
 
 ### 무료 버전 사용 시 제한사항
 - GPT, Claude 및 Gemini는 무료 버전 사용으로 인해 다음과 같은 제한이 존재함
-
-
 - 사용량 제한 발생 가능 / 최신 모델 선택 제한 가능 / 장문 입력 처리량 제한 가능
-
 
 
 ## 동일 입력 내용
