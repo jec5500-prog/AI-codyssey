@@ -15,7 +15,7 @@
 
   ## 모델 및 환경 기록(재현성)
 
-| GPT-4o | Claude 3.5 Sonnet | Gemini 1.5 Pro |
+| 항목 | GPT-4o | Claude 3.5 Sonnet | Gemini 1.5 Pro |
 | :-- | :--: | --: |
 | 왼쪽 정렬 | 가운데 정렬 | 123 |
 | 긴 텍스트 | 가운데 | 4,567 |
