@@ -37,6 +37,17 @@ Discord 알림까지 자동화한 프로젝트입니다.
 
 ---
 
+***
+
+# 📺 YouTube RSS Automation
+
+![n8n](https://img.shields.io/badge/n8n-Automation-orange)
+![Notion](https://img.shields.io/badge/Notion-Database-black)
+![Discord](https://img.shields.io/badge/Discord-Bot-5865F2)
+![RSS](https://img.shields.io/badge/RSS-Feed-orange)
+
+***
+
 ## 배운 점
 ↓
 ↑
