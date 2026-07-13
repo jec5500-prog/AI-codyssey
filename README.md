@@ -18,7 +18,18 @@ Discord 알림까지 자동화한 프로젝트입니다.
 
 ## 시스템 구조
 
-(이미지)
+<table>
+  <tr>
+    <td align="center">
+      <img width="50%" alt="스크린샷 2026-07-13 오후 4 37 59" src="https://github.com/user-attachments/assets/28d5177b-0d14-46e6-9b6d-e7493d2190ed" />
+      MAKE구조
+    </td>
+    <td align="center">
+      <img width="1172" height="1080" alt="스크린샷 2026-07-13 오후 4 38 09" src="https://github.com/user-attachments/assets/d58e33dd-8ad9-449d-80dc-9486d0908d76" />
+      n8n구조
+      </td>
+  </tr>
+</table>
 
 ---
 
